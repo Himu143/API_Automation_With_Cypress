@@ -1,0 +1,19 @@
+{
+  "name": "apiautomationcy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
